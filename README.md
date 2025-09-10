@@ -1,9 +1,8 @@
 # Guia de material de apoio fiscal e tributário
 
-Guia de material de apoio fiscal e tributário
 
 
-# 📘 Guia de Apoio Fiscal e Tributário  
+## 📘 Guia de Apoio Fiscal e Tributário  
 
 Este material tem como objetivo apoiar o estudo e a prática diária no recebimento e escrituração de notas fiscais, com foco em **Substituição Tributária (ST), CST/CSOSN, CFOP e regras de escrituração**.  
 
