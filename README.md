@@ -184,5 +184,5 @@ A **TIPI (Tabela de Incidência do IPI)** é uma tabela oficial que contém todo
 
 ---
 
-
+🖊️***Elaborado pelo colaborador:*** Wellington Daniel
 
