@@ -177,7 +177,7 @@ A **TIPI (Tabela de Incidência do IPI)** é uma tabela oficial que contém todo
 - Baseada no Sistema Harmonizado (SH).  
 - Utilizada para identificar mercadorias, definir alíquotas de IPI e também serve de base para convênios de ICMS-ST.  
 
-🔗 Acesso: [TIPI – Receita Federal]([https://www.gov.br/receitafederal/pt-br/assuntos/tributos/tipi](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/legislacao/tipi-tabela-de-incidencia-do-imposto-sobre-produtos-industrializados)  
+🔗 Acesso: [TIPI – Receita Federal](https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/legislacao/tipi-tabela-de-incidencia-do-imposto-sobre-produtos-industrializados)  
 
 ---
 
