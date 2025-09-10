@@ -108,7 +108,54 @@ O **CFOP** identifica a natureza da operação (entrada ou saída).
 
 ---
 
-## 🔹 5. CONFAZ  
+## 🔹 5. Tabelas de Apoio à Escrituração
+
+A seguir, alguns cenários práticos de escrituração considerando diferentes **CST/CSOSN** recebidos:
+
+### 🏷️ Entrada de mercadoria nas CST ICMS ST
+
+| CST ICMS / ST (NF Entrada) | Escrituração (SPED) |
+|----------------------------|---------------------|
+| X60                        | X60                 |
+| X70                        | X60                 |
+| X10                        | X60                 |
+
+---
+
+### 🏷️ Escrituração – Regime Normal x Simples Nacional
+
+| Regime Normal | Escrituração | Simples Nacional | Escrituração |
+|---------------|--------------|------------------|--------------|
+| CST 060       | 060          | CSOSN 500        | 500          |
+| CST 000       | 000          | CSOSN 400        | 400          |
+| CST 020       | 020          | CSOSN 400        | 400          |
+| CST 041       | 041          | CSOSN 400        | 400          |
+
+---
+
+### 🏷️ Escrituração de CTe (Conhecimento de Transporte Eletrônico)
+
+| Regime | CST/CSOSN Entrada | Escrituração |
+|--------|-------------------|--------------|
+| Simples Nacional | CST 000 | 400 |
+| Simples Nacional | CST 090 | 900 |
+
+---
+
+### 🏷️ Escrituração de NFS-e (Nota Fiscal de Serviço Eletrônica)
+
+| Regime | CST/CSOSN Entrada | Escrituração |
+|--------|-------------------|--------------|
+| Simples Nacional | CST 041 | 400 |
+
+---
+
+📌 Essas tabelas servem como guia prático, mas **devem sempre ser conferidas com a legislação vigente e com o contador responsável**, já que podem existir particularidades estaduais e setoriais.
+
+---
+
+
+## 🔹 6. CONFAZ  
 
 O **CONFAZ (Conselho Nacional de Política Fazendária)** é um órgão colegiado que reúne representantes de todas as **Secretarias de Fazenda dos Estados e do Distrito Federal**.  
 
@@ -119,7 +166,7 @@ O **CONFAZ (Conselho Nacional de Política Fazendária)** é um órgão colegiad
 
 ---
 
-## 🔹 6. TIPI  
+## 🔹 7. TIPI  
 
 A **TIPI (Tabela de Incidência do IPI)** é uma tabela oficial que contém todos os **códigos NCM** (Nomenclatura Comum do Mercosul), com suas respectivas **alíquotas de IPI**.  
 
@@ -130,7 +177,7 @@ A **TIPI (Tabela de Incidência do IPI)** é uma tabela oficial que contém todo
 
 ---
 
-## 🔹 7. Conclusão e Recomendações  
+## 🔹 8. Conclusão e Recomendações  
 
 - Os lançamentos devem ser realizados atentamente das notas fiscais recebidas para evitar escrituração indevida.  
 - Utilizar o material como apoio no **treinamento interno** e como consulta rápida no dia a dia.  
