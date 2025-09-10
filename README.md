@@ -155,14 +155,18 @@ A seguir, alguns cenários práticos de escrituração considerando diferentes *
 ---
 
 
-## 🔹 6. CONFAZ  
+## 🔹 6. CONFAZ
 
-O **CONFAZ (Conselho Nacional de Política Fazendária)** é um órgão colegiado que reúne representantes de todas as **Secretarias de Fazenda dos Estados e do Distrito Federal**.  
+O **CONFAZ (Conselho Nacional de Política Fazendária)** é um órgão colegiado que reúne representantes de todas as **Secretarias de Fazenda dos Estados e do Distrito Federal**.
 
-- Tem como função **disciplinar a aplicação do ICMS** em âmbito nacional.  
-- Responsável por firmar **Convênios e Protocolos** que uniformizam regras tributárias entre os estados.  
+### Funções principais:
+- Disciplinar a aplicação do **ICMS** em âmbito nacional.  
+- Firmar **Convênios e Protocolos**, que uniformizam regras tributárias entre os estados.  
+- Informar quais **NCMs (Nomenclatura Comum do Mercosul)** possuem previsão de **Substituição Tributária** no território nacional.  
 
-🔗 Acesso: [Portal do CONFAZ](https://www.confaz.fazenda.gov.br)  
+🔗 Acesso geral: [Portal do CONFAZ](https://www.confaz.fazenda.gov.br) 
+
+🔗 NCMs sujeitas à ST: [Portal Nacional da Substituição Tributária – CONFAZ](https://www.confaz.fazenda.gov.br/legislacao/portal-nacional-da-substituicao-tributaria)
 
 ---
 
