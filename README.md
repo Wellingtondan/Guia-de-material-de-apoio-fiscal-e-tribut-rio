@@ -132,12 +132,10 @@ A **TIPI (Tabela de Incidência do IPI)** é uma tabela oficial que contém todo
 
 ## 🔹 7. Conclusão e Recomendações  
 
-- Sempre verificar a **legislação estadual** e os **convênios/protocolos** vigentes.  
-- Manter tabelas atualizadas de **CFOP, CST, CSOSN e TIPI**.  
-- Conferir atentamente as notas fiscais recebidas para evitar **glosas de crédito** ou **autuações fiscais**.  
+- Os lançamentos devem ser realizados atentamente das notas fiscais recebidas para evitar escrituração indevida.  
 - Utilizar o material como apoio no **treinamento interno** e como consulta rápida no dia a dia.  
 
 ---
 
-✍️ **Sugestão**: Este material pode ser ampliado futuramente com **exemplos práticos de notas fiscais**, **prints do SPED** e **links oficiais da SEFAZ**.  
+
 
