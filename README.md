@@ -73,12 +73,23 @@ Usado por empresas **optantes pelo Simples Nacional**.
 
 O **CFOP** identifica a natureza da operação (entrada ou saída).  
 
-### Entradas (1.000 e 2.000)  
-- **1.101** – Compra para industrialização (mesmo estado)  
-- **1.102** – Compra para comercialização (mesmo estado)  
-- **1.401** – Compra para industrialização (fora do estado)  
-- **1.403** – Compra para comercialização (fora do estado)  
-- **1.556** – Retorno de industrialização por encomenda  
+### Entradas - 1.000 (Dentro do estado) e 2.000 (Fora do estado)  
+- **1.101** – Compra para industrialização 
+- **1.102** – Compra para comercialização 
+- **1.121** - 
+- **1.152** -
+- **1.303** -
+- **1.353** -
+- **1.401** – Compra para industrialização 
+- **1.403** – Compra para comercialização
+- **1.407** - 
+- **1.411** -
+- **1.551** - 
+- **1.556** – Retorno de industrialização por encomenda
+- **1.652** -
+- **1.653** -
+- **1.910** -
+- **1.933** - 
 - **1.949** – Outras entradas  
 
 ### Saídas (5.000 e 6.000)  
