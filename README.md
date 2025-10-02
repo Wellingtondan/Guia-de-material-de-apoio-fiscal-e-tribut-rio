@@ -67,6 +67,34 @@ Usado por empresas **optantes pelo Simples Nacional**.
 - **500** – ICMS-ST recolhido anteriormente  
 - **900** – Outras  
 
+
+### 🔹 2.1. Origem da Mercadoria (Códigos de Origem – ICMS e IPI)  
+
+A **Origem da Mercadoria** é um campo obrigatório da NF-e (tag `orig`) e complementa a aplicação do CST/CSOSN.  
+Ela identifica **se a mercadoria é nacional, importada ou adquirida de terceiros**, sendo determinante para a **formação do ICMS, créditos e benefícios fiscais**.  
+
+### 📋 Tabela de Origem (ICMS/IPI)  
+
+| Código | Descrição Técnica | Interpretação Prática |
+|--------|------------------|------------------------|
+| **0** | Nacional, exceto as indicadas nos códigos 3 a 5 | Produzida no Brasil com insumos nacionais. |
+| **1** | Estrangeira – Importação direta | Mercadoria importada diretamente pela empresa. |
+| **2** | Estrangeira – Adquirida no mercado interno | Importada por outra empresa e revendida internamente. |
+| **3** | Nacional, com conteúdo de importação > 40% e ≤ 70% | Produto fabricado no Brasil, mas com insumos importados relevantes. |
+| **4** | Nacional, cuja produção tenha utilizado processos produtivos básicos (PPB) | Ex.: ZFM e áreas incentivadas. |
+| **5** | Nacional, com conteúdo de importação ≤ 40% | Produzido no Brasil com poucos insumos importados. |
+| **6** | Estrangeira – Importação direta, sem similar nacional, constante em lista da CAMEX | Importação autorizada com benefício fiscal. |
+| **7** | Estrangeira – Adquirida no mercado interno, sem similar nacional, constante em lista da CAMEX | Revenda interna de produto importado com benefício fiscal. |
+| **8** | Nacional, com conteúdo de importação superior a 70% | Produto fabricado no Brasil, mas com maioria de insumos importados. |
+
+
+### 📌 Observações importantes:
+- A **Origem** é **sempre combinada ao CST/CSOSN** para formar a chave completa da tributação (Ex.: CST **060 – Origem 2** → ICMS-ST de produto importado e revendido).  
+- Impacta na **aplicação de benefícios** (isenções, reduções, diferimento).  
+- Necessária para relatórios do **SPED Fiscal e Contribuições**.  
+- Nos casos de **produtos industrializados no Brasil**, deve-se analisar o **conteúdo de importação** para classificar corretamente (≥ 40% ou ≤ 40%).  
+
+
 ---
 
 ## 🔹 3. CFOP (Código Fiscal de Operações e Prestações)  
