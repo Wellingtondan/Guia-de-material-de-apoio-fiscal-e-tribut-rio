@@ -92,11 +92,24 @@ O **CFOP** identifica a natureza da operação (entrada ou saída).
 - **1.933** - Aquisição de serviço tributado pelo ISSQN.
 - **1.949** – Outras entradas  
 
-### Saídas - 5.000 (Dentro do estado) e 6.000)  
-- **5.101** – Venda de produção do estabelecimento (mesmo estado)  
-- **5.102** – Venda de mercadoria adquirida para revenda (mesmo estado)  
-- **6.101** – Venda de produção do estabelecimento (fora do estado)  
-- **6.102** – Venda de mercadoria adquirida para revenda (fora do estado)  
+### Saídas - 5.000 (Dentro do estado) e 6.000 (Fora do estado)  
+- **5.101** – Venda de produção do estabelecimento  
+- **5.102** – Venda de mercadoria adquirida para revenda
+- **5.152** - Transferência de mercadoria adquirida ou recebida de terceiros
+- **5.202** - Devolução de compra para comercialização
+- **5.405** - Venda de mercadoria adquirida ou recebida de terceiros em operação com mercadoria sujeita ao regime de substituição tributária, na condição de contribuinte substituído
+- **5.411** - Devolução de compra para comercialização em operação com mercadoria sujeita ao regime de substituição tributária
+- **5.557** - Transferência de material de uso ou consumo
+- **5.656** - Venda de combustível ou lubrificante adquirido ou recebido de terceiros destinado a consumidor ou usuário final
+- **5.910** - Remessa em bonificação, doação ou brinde
+- **5.915** - Remessa de mercadoria ou bem para conserto ou reparo
+- **5.916** - Retorno de mercadoria ou bem recebido para conserto ou reparo
+- **5.927** - Lançamento efetuado a título de baixa de estoque decorrente de perda, roubo ou deterioração
+- **5.929** - Venda de Cupom Fiscal - Emissor de Cupom Fiscal - ECF
+- **5.933** - Prestação de serviço tributado pelo ISSQN.
+- **5.949** - Outra saída de mercadoria ou prestação de serviço não especificado
+- **6.101** – Venda de produção do estabelecimento  
+- **6.102** – Venda de mercadoria adquirida para revenda  
 - **5.405 / 6.405** – Venda sujeita à ST  
 - **5.949 / 6.949** – Outras saídas  
 
