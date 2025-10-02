@@ -76,23 +76,23 @@ O **CFOP** identifica a natureza da operação (entrada ou saída).
 ### Entradas - 1.000 (Dentro do estado) e 2.000 (Fora do estado)  
 - **1.101** – Compra para industrialização 
 - **1.102** – Compra para comercialização 
-- **1.121** - 
-- **1.152** -
-- **1.303** -
-- **1.353** -
+- **1.121** - Compra para comercialização, em venda à ordem, já recebida do vendedor remetente
+- **1.152** - Transferência para comercialização
+- **1.303** - Aquisição de serviço de comunicação por estabelecimento comercial
+- **1.353** - Aquisição de serviço de transporte por estabelecimento comercial
 - **1.401** – Compra para industrialização 
 - **1.403** – Compra para comercialização
-- **1.407** - 
-- **1.411** -
-- **1.551** - 
+- **1.407** - Compra de mercadoria para uso ou consumo cuja mercadoria está sujeita ao regime de substituição tributária
+- **1.411** - Devolução de venda de mercadoria adquirida ou recebida de terceiros em operação com mercadoria sujeita ao regime de substituição tributária
+- **1.551** - Compra de bem para o ativo imobilizado
 - **1.556** – Retorno de industrialização por encomenda
-- **1.652** -
-- **1.653** -
-- **1.910** -
-- **1.933** - 
+- **1.652** - Compra de combustível ou lubrificante para comercialização
+- **1.653** - Compra de combustível ou lubrificante por consumidor ou usuário final
+- **1.910** - Entrada de bonificação, doação ou brinde
+- **1.933** - Aquisição de serviço tributado pelo ISSQN.
 - **1.949** – Outras entradas  
 
-### Saídas (5.000 e 6.000)  
+### Saídas - 5.000 (Dentro do estado) e 6.000)  
 - **5.101** – Venda de produção do estabelecimento (mesmo estado)  
 - **5.102** – Venda de mercadoria adquirida para revenda (mesmo estado)  
 - **6.101** – Venda de produção do estabelecimento (fora do estado)  
