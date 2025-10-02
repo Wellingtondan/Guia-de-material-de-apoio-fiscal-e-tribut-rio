@@ -138,8 +138,8 @@ O **CFOP** identifica a natureza da operação (entrada ou saída).
 - **5.949** - Outra saída de mercadoria ou prestação de serviço não especificado
 - **6.101** – Venda de produção do estabelecimento  
 - **6.102** – Venda de mercadoria adquirida para revenda  
-- **5.405 / 6.405** – Venda sujeita à ST  
-- **5.949 / 6.949** – Outras saídas  
+- **6.405** – Venda sujeita à ST  
+- **6.949** – Outras saídas  
 
 📌 **Observação**: A escolha correta do CFOP é essencial para **escrituração e apuração do imposto**.  
 
